@@ -1,8 +1,8 @@
 ![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f15d07fb-c5ab-4e10-86c7-983f7746eb48/dgdidfa-0a46e71a-b401-4b73-ac6c-80627deb1503.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2YxNWQwN2ZiLWM1YWItNGUxMC04NmM3LTk4M2Y3NzQ2ZWI0OFwvZGdkaWRmYS0wYTQ2ZTcxYS1iNDAxLTRiNzMtYWM2Yy04MDYyN2RlYjE1MDMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.cgl73oWrDBjaV1JjWfUZ8EG4JP4pJQyA7WX32tG3iHk)
 <h1 align="center">Hi 👋, I'm Sutirtha Choudhury</h1>
 <h3 align="center">A passionate Fullstack Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
-
+<!-- <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
+ -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sutirtha100&label=Profile%20views&color=0e75b6&style=flat" alt="sutirtha100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sutirtha100" alt="sutirtha100" /></a> </p>
